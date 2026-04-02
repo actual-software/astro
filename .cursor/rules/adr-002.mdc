@@ -1,0 +1,10 @@
+---
+globs: ["**/*"]
+alwaysApply: false
+---
+
+# Use Astro Files For Components
+
+## Policies
+
+1. Use astro files for all components

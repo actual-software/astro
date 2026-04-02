@@ -1,0 +1,10 @@
+---
+globs: ["**/*"]
+alwaysApply: false
+---
+
+# Use Single Frontend Framework Only
+
+## Policies
+
+1. Do not mix and match front end frameworks.
